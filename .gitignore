@@ -12,6 +12,10 @@ MODULE.bazel.lock
 # python
 *.pyc
 
+# zig
+zig-cache/
+zig-out/
+
 # Visual Studio files
 .vs
 *.sdf
